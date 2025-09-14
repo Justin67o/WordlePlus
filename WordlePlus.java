@@ -1,4 +1,3 @@
-// Culminating Project, WorldPlus, Kenny and Justin
 // The window dimensions are 720 x 950
 // The rules are that you have 6 chances to guess a random word. 
 // The game will be singleplayer and the player gets to choose between different gamemodes: 
